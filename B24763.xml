@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords-Justices and Council. A proclamation Charles Porter Tho. Coningesby. Whereas we have by our proclamation, bearing date the eighteenth day of September last past, thought fit to publish and declare in the words following, whereas many idle and dissolute persons ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24763</idno><idno type="EEBO-CITATION">99886543</idno>
+  <idno type="VID">186763</idno>
+  <idno type="EEBO-PROQUEST">2240896718</idno>
+  
+            <idno type="STC">Wing I480</idno>
+            <idno type="STC">Interim Tract Supplement Guide G. 5869[54]</idno>
+            <idno type="STC">ESTC R226150</idno>
+            <idno type="PROQUEST">ocm99886543</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886543e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186763)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:3[54])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords-Justices and Council. A proclamation Charles Porter Tho. Coningesby. Whereas we have by our proclamation, bearing date the eighteenth day of September last past, thought fit to publish and declare in the words following, whereas many idle and dissolute persons ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] leaves).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook assignee of Benjamin Tooke printer to the King and Queen at thier Majesties printing-house on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council-Chamber in Dublin 14th day of October, 1691.".</note>
+                  <note>Extending pardon to Rapparees.--Steele.</note>
+                  <note>Steele notation: Arms 193. day of 2) In- in.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pardon --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Thieves --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186763:1"/>
+            <head>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                     </figure> RR</head>
+                  <q xml:lang="frm">JE MEINTIENDRAY</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lords-Justices and COUNCIL. A PROCLAMATION</head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>CHARLES PORTER</item>
+                     <item>THO. CONINGESBY,</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>WHereas We have by Our Proclamation, bearing Date the Eighteenth day of <hi>September</hi> last past, thought fit to Publish and Declare in the words following,</p>
+            <p>WHereas many Idle and Dissolute Persons have of late deserted their Habitations, and are become Tories, Thieves and Rapparees, committing most outrageous Robberies, Burglaries and Thefts, and may therefore justly look on their Estate as desperate, and that they have transgressed beyond hopes of Pardon: Nevertheless, We being wil<g ref="char:EOLhyphen"/>ling to impute their Obstinacy to the Ignorance they were in of their own Con<g ref="char:EOLhyphen"/>dition, the Influence and Delusions they may be under from their Landlords and other Superiors. To the end they may be left without all excuse, if they shall refuse and neglect the present Grace and Favour, are pleased to publish and declare by this Our Proclamation at this instant, after many signal Defeats of those Forces in the Field, and reducing most of the strong Holds and Garrisons from whence they may have derived their confidence, Their Majesties farther Favour, Grace and Pardon to all and every such Robbers, Thieves and Rappa<g ref="char:EOLhyphen"/>rees within Our Quarters, as are now on their keeping, as shall within the space of one Month from the Date hereof, render themselves and deliver up their Arms to any Iustice or Iustices of the Peace of any Counties, and before such Iustice or Iustices of the Peace take the Oath of Fidelity and Allegiance to Their Majesties, Our Sovereign Lord and Lady King <hi>WILLIAM</hi> and Queen <hi>MARY,</hi> that they shall on Certificate from such Iustice of the Peace, be received into Their Majesties Protection, and be full and freely pardoned, as to their Lives and Liberties, all Treasons, Burglaries, Robberies, Thefts and other Crimes and Misdemeanours whatsoever before that time by them com<g ref="char:EOLhyphen"/>mitted or done, and the Iustices of the Peace, who shall give any such Certificate, are hereby required and directed to make return unto Vs the Lords Iustices un<g ref="char:EOLhyphen"/>der their han<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the names of all such persons to whom they shall have given any Certificate, with the places of their Aboad or Residence, what quality or degree they were of, and what Arms were delivered up by them, And We do hereby declare, that We shall hereafter look on all such persons that shall willfully refuse and neglect this their Majesties Grace and Clemency altogether unworthy thereof in time to come, nevertheless it is not hereby in<g ref="char:EOLhyphen"/>tended the said Grace and Pardon shall be construed to extend to any offence or offences that shall be willfully Commited after notice of this Our Proclama<g ref="char:EOLhyphen"/>tion.</p>
+            <pb facs="tcp:186763:2"/>
+            <p>And forasmuch as those Thieves, Robbers, and Rapparees have their In<g ref="char:EOLhyphen"/>couragement, and Subsistance from divers persons who pretend to live peaceably under the Protection of their Majesties Government being relieved, harboured, concealed, and comforted by them contrary to the many good Laws of this King<g ref="char:EOLhyphen"/>dom. We do hereby declare that any Person or Persons that shall on any pretence whatsoever relieve, harbour, conceal, or comfort any the said Thieves, Robbers, or Rapparees or their accomplices shall loose and forfeit the benefit of his or their Protection, and be also prosecuted with the utmost severity of the Laws for such offence, And as a reward to all such Loyal Subjects, as shall detect and discover any the said Thieves, Robbers, and Rapparees so as they shall be apprehended or any of their harbourers or relievers so as they shall thereof be convicted shall for every such Tory or Rapparee so apprehended and for every harbourer or reliever so Convicted be paid the Sum of forty shillings. And whereas the unprofitable Custom of Burning Corn in the straw is by a statute made in this Kingdom in the eleventh year of King <hi>CHARLES</hi> the first prohibited under severe penaltyes, yet is the same as We are informed in divers places practised and more especially for Comfort and Support of the said Robbers and Rapparees, We do therefore hereby declare and publish that all persons offending therein shall loose and forfeit the benefit of their protections and shall be also farther proceeded against according to Law. And whereas divers all affected persons under colour and pretence of secureing their Corn do hide and bury the same, in truth the better to enable themselves to relieve and succour To<g ref="char:EOLhyphen"/>ries, Thieves and Rapparees, and to let the said Tories, Thieves and Rappa<g ref="char:EOLhyphen"/>rees know where to have and take the same: We have thought fit hereby to de<g ref="char:EOLhyphen"/>clare, all such persons as shall hide or bury their Corn shall be reputed and tak<g ref="char:EOLhyphen"/>en as disaffected to the Government and shall loose and forfeit the benefit of any protections heretofore given them.</p>
+            <p>And whereas since the issuing of the said Proclamation, the Province of <hi>Con<g ref="char:EOLhyphen"/>naught</hi> and all other places which then were in the Enemies Quarters are re<g ref="char:EOLhyphen"/>duced to Their Majesties Obedience, nevertheless many Idle and Dissolute Per<g ref="char:EOLhyphen"/>sons do continue to commit Outrageous Robberies and Thefts in those Parts, We therefore to leave them also without Excuse, if they shall refuse this Our present Grace and Favour, are pleased to Declare and Publish by this Our Pro<g ref="char:EOLhyphen"/>clamation Their Majesties further Grace and Pardon to all and every such Rob<g ref="char:EOLhyphen"/>bers, Thieves and Rapparees in the said Province of <hi>Connaught,</hi> and all other places which at the time of Issuing Our Proclamation aforesaid were in the Enemies Quarters, as shall by or before the Fifth day of <hi>November</hi> next lay hold on the said Proclamation, and render and submit themselves to Their Majesties Government, as by the said Proclamation is directed and required, the benefit whereof shall be as fully extended to them, as if they had come in by the time in the said Proclamation heretofore limited.</p>
+            <closer>
+               <dateline>Given at the Council-Chamber in <hi>Dublin</hi>
+                  <date>the 14th day of <hi>October,</hi> 1691.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Fran. Dublin,</item>
+                     <item>Droheda,</item>
+                     <item>Longford,</item>
+                     <item>Granard,</item>
+                     <item>Anth. Meath,</item>
+                     <item>Rob. Fitz-Gerald,</item>
+                     <item>Ry, Reynell,</item>
+                     <item>Ri. Pyne,</item>
+                     <item>Jn<seg rend="sup">o</seg> Hely,</item>
+                  </list>
+               </signed> GOD Save the KING and QUEEN,</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Andrew Crook</hi> Assignee of <hi>Benjamin Tooke</hi> Printer to the King and Queen at their Majesties Printing-House on <hi>Ormonde-Key.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
